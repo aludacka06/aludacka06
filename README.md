@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aludacka06
 - 👀 I’m interested in Web Development and Application Development.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I have basic Python skills and am currently learning JavaScript, Kotlin, and C.
     I'm relearning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
